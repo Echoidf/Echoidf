@@ -8,8 +8,9 @@
 
 - 😊 I'm a student from NJUPT majoring in computer science
 - 🌟 I love code, book-reading, traveling, and ... 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning GO And Vue3.
+- 🔭 I’m currently working on Golang, AI, React
+- 🦄 Try to be an indie developer.
+- 🌱 I’m currently learning _Rust_
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: zql46@outlook.com
